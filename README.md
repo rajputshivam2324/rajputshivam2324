@@ -109,8 +109,3 @@ duflare Worker | Next JS
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/rajputshivam2324/rajputshivam2324/blob/output/github-contribution-grid-snake.svg)
-
----
