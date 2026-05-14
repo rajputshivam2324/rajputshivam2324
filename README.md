@@ -69,7 +69,7 @@
 | [ Go API Gateaway](https://github.com/rajputshivam2324/Go-API-Gateway) | Go API Gateaway implementation | Go | Gin | PostgreSQL | Docker
 | [ Chatify AI](https://github.com/rajputshivam2324/Chatify--AI) | Multi LLM AI Chatbot | Python | Fast API | Langchain | PostGreSQL | Langgraph | Docker | ChromaDB |Redis
 | [ Vido AI](https://github.com/rajputshivam2324/Vido-AI) | Youtube RAG Chatbot | TypeScript | Node JS | Express | PostgreSQL | PineconeDB |React.js
-| [ Blind-100](https://github.com/rajputshivam2324/Blind-100) | LeetCode Blind 100 QS Set | TypeScript | Clo# This is a basic workflow to help you get started with Actions
+| [ Blind-100](https://github.com/rajputshivam2324/Blind-100) | LeetCode Blind 100 QS Set | TypeScript
 
 
 
